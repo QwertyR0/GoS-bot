@@ -11,6 +11,7 @@
   "dependencies": {
     "chalk": "4.1.2",
     "discord.js": "^13.6.0",
-    "dotenv": "^16.0.0"
+    "dotenv": "^16.0.0",
+    "ezrandom": "https://github.com/QwertyR0/ezrandom.git"
   }
 }
