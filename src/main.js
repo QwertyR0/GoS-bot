@@ -25,7 +25,7 @@ client.on("ready", ()=> {
     setInterval(()=> {
         var result = ezrandom.genInt(1, 10);
         if(result === ezrandom.genInt(1, 10)){
-            client.channels.cache.get("957665667199422516").send(`${ezrandom.selection(randomSpeech, 1)}`);
+            client.channels.cache.get("959843404819361812").send(`${ezrandom.selection(randomSpeech, 1)}`);
         }
     }, 1000*240);
     
